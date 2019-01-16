@@ -1,5 +1,4 @@
-<script src="//d3js.org/d3.v3.min.js"></script>
-<script>
+
 
 var margin = {top: 20, right: 50, bottom: 30, left: 50},
     width = 960 - margin.left - margin.right,
@@ -99,4 +98,4 @@ d3.tsv("data.tsv", function(error, data) {
   }
 });
 
-</script>
+
